@@ -1,6 +1,6 @@
 ## Hi there, I'm Gauri (Also known as meow meow)
 # 💫 About Me:
-🔭 I’m currently working on Metagenomics related research<br>
+🔭 Working on Metagenomics related research for Google Summer of Code @Alaska<br>
 🌱 I’m currently learning a lot of things honestly. If I start listing them it'll be too much.
 
 
